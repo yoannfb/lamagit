@@ -1,0 +1,45 @@
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color:#fff8ef;
+    height: 50px;
+    font-size: 18px;
+}
+
+.logo img {
+    width: 100%;
+}
+
+.navbar {
+    background: linear-gradient(0deg, rgba(84,44,35,1) 0%, rgba(255,248,239,1) 100%);
+    font-weight: 600;
+}
+
+.general {
+    background-color: #fff8ef;
+}
+
+.answer {
+    opacity: 0;
+    background-color: rgba(84,44,35,1);
+    color: white;
+    border-radius: 5em;
+    padding: 2em;
+    margin: 1em;
+    font-family: 'Caveat Brush', cursive;
+    transition:0.5s ease;
+}
+
+
+#lien:hover .answer{
+    opacity: 1;
+}
+
+.text{
+    border: 5px solid rgba(84,44,35,1);
+    border-radius: 2em;
+    padding: 1em;
+    font-family: cursive;
+    display: flex;
+    text-align: center;
+}
