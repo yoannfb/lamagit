@@ -2,6 +2,5 @@
 
 <?php 
 include "../html/accueil.html";
-include "../js/accueil.js";
-include "../css/accueil.php";
+
 ?>
