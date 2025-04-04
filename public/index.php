@@ -2,6 +2,6 @@
 
 <?php 
 include "C:\Users\yoann\yoann\Studi\Angular\lamagit\html\accueil.html";
-include "../css/accueil.css";
-include "../js/accueil.js";
+include "C:\Users\yoann\yoann\Studi\Angular\lamagit\css\accueil.css";
+include "C:\Users\yoann\yoann\Studi\Angular\lamagit\js\accueil.js";
 ?>
